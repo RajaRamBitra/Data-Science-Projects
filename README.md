@@ -25,12 +25,8 @@ Welcome to my Data Science Projects repository! This contains a collection of da
 
 ```
 Data-Science-Projects/
-├── Lung Cancer Classification using PCA/
-│   ├── notebooks/
-│   ├── data/
-│   ├── README.md
-│   └── requirements.txt
-├── [Future Project]/
+├── Lung Cancer Classification using PCA
+├── [Future Project]
 └── README.md
 ```
 

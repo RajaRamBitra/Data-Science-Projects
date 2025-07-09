@@ -10,17 +10,17 @@
 
 ### Table of Contents
 
-- [🎯 Project Overview](#-project-overview)
-- [📊 Dataset Information](#-dataset-information)
-- [🏗️ Project Structure](#️-project-structure)
-- [🚀 Installation & Setup](#-installation--setup)
-- [📖 Usage Guide](#-usage-guide)
-- [🔬 Methodology](#-methodology)
-- [📈 Key Results](#-key-results)
-- [💻 Technologies Used](#-technologies-used)
-- [🤝 Contributing](#-contributing)
-- [👨‍💻 Author](#-author)
-- [📄 License](#-license)
+- Project Overview
+- Dataset Information
+- Project Structure
+- Installation & Setup
+- Usage Guide
+- Methodology
+- Key Results
+- Technologies Used
+- Contributing
+- Author
+- License
 
 ### Project Overview
 
@@ -31,7 +31,7 @@ This project implements a comprehensive machine learning pipeline for lung cance
 - **From-Scratch Implementations**: Custom PCA, Kernel PCA, and classification algorithms
 - **Comprehensive Analysis**: 4 detailed Jupyter notebooks covering the entire ML pipeline
 - **Multiple Techniques**: Standard PCA, Kernel PCA (RBF, Polynomial, Linear, Combined)
-- **Various Classifiers**: Minimum Distance, Bayes, Naive Bayes, KNN, LDA
+- **Various Classifiers**: Minimum Distance, Bayes, Naive Bayes, KNN, LDA, KDA
 - **Performance Optimization**: Component selection and hyperparameter tuning
 - **Detailed Visualizations**: Performance comparisons and analysis plots
 
@@ -52,7 +52,7 @@ This project implements a comprehensive machine learning pipeline for lung cance
 ### Project Structure
 
 ```
-lung-cancer-pca-classification/
+lung-cancer-classification-using-pca/
 ├── README.md                                   # Project documentation
 ├── Lung.csv                                    # Dataset file
 └── notebooks/                                  # Main analysis notebooks
@@ -70,8 +70,8 @@ lung-cancer-pca-classification/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/lung-cancer-pca-classification.git
-cd lung-cancer-pca-classification
+git clone https://github.com/RajaRamBitra/Data-Science-Projects/Lung-Cancer-Classification-using-PCA.git
+cd Lung-Cancer-Classification-using-PCA
 ```
 
 ### 2. Install Dependencies
@@ -146,11 +146,12 @@ print(f"Number of classes: {len(np.unique(labels))}")
 - **From-Scratch Implementations**:
   - Minimum Distance Classifier
   - Bayes Classifier with Gaussian assumptions
+  - Kernel Discriminant Analysis (KDA)
 
 - **Scikit-learn Implementations**:
   - Naive Bayes
   - K-Nearest Neighbors (k=5)
-  - Linear Discriminant Analysis
+  - Linear Discriminant Analysis (LDA)
 
 ### Optimization Strategy
 
@@ -214,12 +215,12 @@ Contributions are welcome! Here's how you can help:
 
 **Raja Ram Bitra**
 - 📧 Email: [rambitra01@gmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐱 GitHub: [Your GitHub Profile]
+- 💼 LinkedIn: [www.linkedin.com/in/raja-ram-bitra]
+- 🐱 GitHub: [https://github.com/RajaRamBitra/]
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 

@@ -1,4 +1,4 @@
-# 🫁 Lung Cancer PCA Classification
+# 🫁 Lung Cancer PCA Classification - Dimensionality Reduction
 
 > **Comprehensive machine learning pipeline for lung cancer classification using microRNA data with advanced dimensionality reduction techniques**
 

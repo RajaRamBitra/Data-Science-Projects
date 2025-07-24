@@ -5,7 +5,7 @@ Welcome to my Data Science Projects repository! This contains a collection of da
 ## 🚀 Projects Overview
 
 ### Current Projects:
-- **Lung Cancer Classification using PCA** - Machine learning classification project using Principal Component Analysis for dimensionality reduction
+- **Dimensionality Reduction** - Machine learning classification project using Principal Component Analysis for dimensionality reduction
 
 ### Upcoming Projects:
 - More projects will be added regularly...
@@ -25,7 +25,7 @@ Welcome to my Data Science Projects repository! This contains a collection of da
 
 ```
 Data-Science-Projects/
-├── Lung Cancer Classification using PCA
+├── Dimensionality Reduction
 ├── [Future Project]
 └── README.md
 ```
